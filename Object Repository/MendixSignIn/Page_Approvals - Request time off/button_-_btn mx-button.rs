@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_-_btn mx-button</name>
+   <tag></tag>
+   <elementGuidId>610627f1-def8-453a-a0f3-08e1f66f9915</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mx-name-datePicker2.mx-datepicker.form-group.no-columns > div.mx-compound-control > button.btn.mx-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>15067d45-dc1f-494b-9834-4288f84b0762</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>10afc4c4-be43-4e8f-b6ba-d8f85bb03c3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn mx-button</value>
+      <webElementGuid>a676ea4c-8de6-4eeb-bdfb-872ae5a5ced9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Show date picker</value>
+      <webElementGuid>a7215fa8-6e2a-4753-b8a9-a31d8c74d0ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>816a01c1-aad3-4d91-8392-f29277070971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mxui_widget_DataView_6&quot;)/div[@class=&quot;mx-dataview-content&quot;]/div[@class=&quot;mx-layoutgrid mx-layoutgrid-fixed container mx-name-layoutGrid1&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-md-9 col-auto card&quot;]/div[@class=&quot;mx-name-container1 spacing-outer-top-large&quot;]/div[@class=&quot;mx-name-container2 row-left hide-phone&quot;]/div[@class=&quot;mx-name-datePicker2 mx-datepicker form-group no-columns&quot;]/div[@class=&quot;mx-compound-control&quot;]/button[@class=&quot;btn mx-button&quot;]</value>
+      <webElementGuid>62c1b12b-7ae1-4437-bd22-53d83945d190</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>2c956037-8e32-4e43-bc3a-10708bfaf88e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mxui_widget_DataView_6']/div/div/div[2]/div/div/div/div[2]/div/button</value>
+      <webElementGuid>474eea38-7c0a-4cb0-81bf-61544dfa6456</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::button[1]</value>
+      <webElementGuid>22172331-3e32-4393-861b-a0ffbc8ec21e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leave date'])[1]/following::button[2]</value>
+      <webElementGuid>863fd240-2647-4da9-a09f-3aafec5a2d23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leave type'])[1]/preceding::button[3]</value>
+      <webElementGuid>21b692c3-baf0-4b15-b7ab-74778029b74f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount'])[1]/preceding::button[3]</value>
+      <webElementGuid>9381a703-e192-4be7-8c60-518ed8ca7f73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/button</value>
+      <webElementGuid>33fd6624-f0a9-467e-980e-9cdbf7ee52a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>d015fdf1-c808-4c65-9ede-31cc1dc1949f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

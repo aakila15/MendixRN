@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_The username andor password you provided are invalid</name>
+   <tag></tag>
+   <elementGuidId>5a4bcf47-a2f8-4d14-99cb-6f15f9b459df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#error-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='error-container']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4771148e-bcce-4c27-8ed1-b4e828c94ad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>error-container</value>
+      <webElementGuid>47874a35-1860-4b68-830a-291512f397f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pds-c-message--danger</value>
+      <webElementGuid>5c1414aa-44a3-4edf-ae0c-848a0bec268f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                The username and/or password you provided are invalid.
+              </value>
+      <webElementGuid>51c9f7f1-20bb-4211-9005-98112d5f1e09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;error-container&quot;)</value>
+      <webElementGuid>6ccd9701-98e6-4de0-acd3-4e163e820e17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='error-container']</value>
+      <webElementGuid>51f5c1a4-5873-4a74-b46f-a1ebf3bf2b68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='login']/div/div/div[3]</value>
+      <webElementGuid>d130bc23-b162-4d28-a64c-01848896e3ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/following::div[2]</value>
+      <webElementGuid>a23f4388-31f7-4630-a2de-9a9ba98c87a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::div[2]</value>
+      <webElementGuid>1587e13c-cfb5-4926-8952-1e9180273905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Single sign-on (SSO) enabled'])[1]/preceding::div[1]</value>
+      <webElementGuid>3fabf869-34fc-4592-a840-463d7452792e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]</value>
+      <webElementGuid>cb0545a7-b68d-49a0-89f3-4fef764976d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'error-container' and (text() = '
+                The username and/or password you provided are invalid.
+              ' or . = '
+                The username and/or password you provided are invalid.
+              ')]</value>
+      <webElementGuid>528dc14d-4639-47b6-81af-db6c61a2a986</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

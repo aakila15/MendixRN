@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Leave date_glyphicon glyphicon-calendar</name>
+   <tag></tag>
+   <elementGuidId>33ebd059-a357-45d3-b658-42945f5d7486</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='mx-name-datePicker1 mx-datepicker form-group no-columns']//span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicon.glyphicon-calendar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c0c812fa-6dce-4d35-b3c5-30fdf03bfdb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-calendar</value>
+      <webElementGuid>61e58007-d2b5-41e0-ad91-76b8af537084</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mxui_widget_DataView_6&quot;)/div[@class=&quot;mx-dataview-content&quot;]/div[@class=&quot;mx-layoutgrid mx-layoutgrid-fixed container mx-name-layoutGrid1&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-md-9 col-auto card&quot;]/div[@class=&quot;mx-name-container1 spacing-outer-top-large&quot;]/div[@class=&quot;mx-name-container2 row-left hide-phone&quot;]/div[@class=&quot;mx-name-datePicker1 mx-datepicker form-group no-columns&quot;]/div[@class=&quot;mx-compound-control&quot;]/button[@class=&quot;btn mx-button&quot;]/span[@class=&quot;glyphicon glyphicon-calendar&quot;]</value>
+      <webElementGuid>6d8cdbd1-bee2-426e-a7ff-dfc99b811580</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mxui_widget_DataView_6']/div/div/div[2]/div/div/div/div/div/button/span</value>
+      <webElementGuid>b883b728-26b2-4e29-8539-a5a7aa5a76ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>67ed5007-03c2-4d6c-abf6-8c2b0126b181</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

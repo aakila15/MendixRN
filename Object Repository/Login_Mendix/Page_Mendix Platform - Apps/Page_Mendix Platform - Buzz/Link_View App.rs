@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Link_View App</name>
+   <tag></tag>
+   <elementGuidId>7b139e9f-088b-4807-9994-da8fb2c1ce7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-default.pds-c-button--text.pds-u-icon-expand-6-before.pds-u-icon-before-18</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'View App')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>214d0dab-cee7-4c01-9b04-d65725ad2039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default pds-c-button--text pds-u-icon-expand-6-before pds-u-icon-before-18</value>
+      <webElementGuid>9064575a-5149-4aa1-bff7-5bfaf258819a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://leavetracker110-sandbox.mxapps.io</value>
+      <webElementGuid>2aab1097-57e4-4c41-896d-ebff7feec518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>4deb4ce5-3bb8-46c8-9ce6-2dbc1df0318e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View App</value>
+      <webElementGuid>97e4847a-ee96-4fbc-bf99-9f898c19c6e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formatstring_widget_formatstring_6&quot;)/div[@class=&quot;formatstring&quot;]/a[@class=&quot;btn btn-default pds-c-button--text pds-u-icon-expand-6-before pds-u-icon-before-18&quot;]</value>
+      <webElementGuid>ae930fae-7903-4f47-8672-ba40d8f51870</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='formatstring_widget_formatstring_6']/div/a</value>
+      <webElementGuid>1812d5b3-6b7a-45bc-a1e0-4a1e4cc674cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View App')]</value>
+      <webElementGuid>cca9f8bd-af61-4e67-8172-904cbaa75d2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collaborate'])[1]/preceding::a[1]</value>
+      <webElementGuid>c8f3be54-a4db-490d-9947-f47f92060b6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Buzz'])[1]/preceding::a[1]</value>
+      <webElementGuid>f207dfed-e71d-4c08-b660-c1b82c79681b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View App']/parent::*</value>
+      <webElementGuid>4a878d57-4e13-4116-a78c-d4b0d8e0552f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://leavetracker110-sandbox.mxapps.io')]</value>
+      <webElementGuid>32790f0f-ca35-4194-b521-2eae2a3e7364</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div/a</value>
+      <webElementGuid>fd346a8e-6def-457d-8550-f3f36fe72283</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://leavetracker110-sandbox.mxapps.io' and (text() = 'View App' or . = 'View App')]</value>
+      <webElementGuid>6f9f09e8-4cdb-43e9-8323-3c28438c8c32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
