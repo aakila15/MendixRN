@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_The username andor password you provided are invalid</name>
+   <name>div_Invalidunpw</name>
    <tag></tag>
    <elementGuidId>5a4bcf47-a2f8-4d14-99cb-6f15f9b459df</elementGuidId>
    <selectorCollection>
