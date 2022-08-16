@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_001 Login,Chrome 104.0.5112.81,,,2022-08-16 09:58:46,2022-08-16 09:59:41,54.643s,PASSED
+,,,,,,,
+Test Cases/MEND-5 TC_001User signin with valid credentials,Chrome 104.0.5112.81,"Summary: TC_001:User signup with valid credentials
+Description: ",jira-integration,2022-08-16 09:58:47,2022-08-16 09:59:41,53.926s,PASSED
+"openBrowser("""")",Chrome 104.0.5112.81,,,2022-08-16 09:58:47,2022-08-16 09:58:57,9.301s,PASSED
+"navigateToUrl(""https://leavetracker110-sandbox.mxapps.io/login.html"")",Chrome 104.0.5112.81,,,2022-08-16 09:58:57,2022-08-16 09:59:00,3.151s,PASSED
+maximizeWindow(),Chrome 104.0.5112.81,,,2022-08-16 09:59:00,2022-08-16 09:59:00,0.207s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/MendixSignIn/Page_Login/input_User name_usernameInput""), 30)",Chrome 104.0.5112.81,,,2022-08-16 09:59:00,2022-08-16 09:59:01,0.675s,PASSED
+"setText(findTestObject(""Object Repository/MendixSignIn/Page_Login/input_User name_usernameInput""), Username)",Chrome 104.0.5112.81,,,2022-08-16 09:59:01,2022-08-16 09:59:03,1.931s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/MendixSignIn/Page_Login/input_Password_passwordInput""), Password)",Chrome 104.0.5112.81,,,2022-08-16 09:59:03,2022-08-16 09:59:05,1.851s,PASSED
+"click(findTestObject(""Object Repository/MendixSignIn/Page_Login/button_Sign in""))",Chrome 104.0.5112.81,,,2022-08-16 09:59:05,2022-08-16 09:59:06,1.486s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/MendixSignIn/Page_Approvals - Home/h1_Leave Requests""), 30)",Chrome 104.0.5112.81,,,2022-08-16 09:59:06,2022-08-16 09:59:39,33.081s,PASSED
+closeBrowser(),Chrome 104.0.5112.81,,,2022-08-16 09:59:39,2022-08-16 09:59:41,1.393s,PASSED

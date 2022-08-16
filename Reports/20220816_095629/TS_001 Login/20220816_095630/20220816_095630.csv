@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_001 Login,Firefox 103.0,,,2022-08-16 09:56:39,2022-08-16 09:57:46,1m - 7.251s,PASSED
+,,,,,,,
+Test Cases/MEND-5 TC_001User signin with valid credentials,Firefox 103.0,"Summary: TC_001:User signup with valid credentials
+Description: ",jira-integration,2022-08-16 09:56:39,2022-08-16 09:57:46,1m - 6.421s,PASSED
+"openBrowser("""")",Firefox 103.0,,,2022-08-16 09:56:41,2022-08-16 09:56:58,17.812s,PASSED
+"navigateToUrl(""https://leavetracker110-sandbox.mxapps.io/login.html"")",Firefox 103.0,,,2022-08-16 09:56:58,2022-08-16 09:57:06,7.111s,PASSED
+maximizeWindow(),Firefox 103.0,,,2022-08-16 09:57:06,2022-08-16 09:57:06,0.111s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/MendixSignIn/Page_Login/input_User name_usernameInput""), 30)",Firefox 103.0,,,2022-08-16 09:57:06,2022-08-16 09:57:06,0.605s,PASSED
+"setText(findTestObject(""Object Repository/MendixSignIn/Page_Login/input_User name_usernameInput""), Username)",Firefox 103.0,,,2022-08-16 09:57:06,2022-08-16 09:57:08,1.827s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/MendixSignIn/Page_Login/input_Password_passwordInput""), Password)",Firefox 103.0,,,2022-08-16 09:57:08,2022-08-16 09:57:10,1.509s,PASSED
+"click(findTestObject(""Object Repository/MendixSignIn/Page_Login/button_Sign in""))",Firefox 103.0,,,2022-08-16 09:57:10,2022-08-16 09:57:11,1.177s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/MendixSignIn/Page_Approvals - Home/h1_Leave Requests""), 30)",Firefox 103.0,,,2022-08-16 09:57:11,2022-08-16 09:57:43,32.306s,PASSED
+closeBrowser(),Firefox 103.0,,,2022-08-16 09:57:43,2022-08-16 09:57:46,2.738s,PASSED

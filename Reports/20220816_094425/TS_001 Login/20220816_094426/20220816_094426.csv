@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_001 Login,Firefox 103.0,,,2022-08-16 09:44:36,2022-08-16 09:47:14,2m - 37.918s,FAILED
+,,,,,,,
+Test Cases/MEND-5 TC_001User signin with valid credentials,Firefox 103.0,"Summary: TC_001:User signup with valid credentials
+Description: ",jira-integration,2022-08-16 09:47:14,2022-08-16 09:47:14,0.196s,FAILED
+"openBrowser("""")",Firefox 103.0,,,2022-08-16 09:47:14,2022-08-16 09:47:14,0.116s,FAILED
